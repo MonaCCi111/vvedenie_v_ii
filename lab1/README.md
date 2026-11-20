@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MonaCCi111/vvedenie_v_ii/blob/main/lab1/notebooks/lab1.ipynb)
-
 # Практическое занятие 1. Рабочее окружение
 
 Автор: Дягилев Вячеслав Игоревич, группа 251-952
@@ -16,3 +14,10 @@
 2. Включить окружение: .venv\Scripts\activate (macOS и Linux: source .venv/bin/activate)
 3. Установить библиотеки: pip install -r requirements.txt
 4. Открыть notebooks/lab1.ipynb в VS Code и выбрать ядро .venv
+
+| | VS Code | Colab |
+|---|---|---|
+| Версия Python | 3.13.9|3.13.18 |
+| Версия pandas |3.1.1 |2.2.3  |
+| Где хранятся файлы |на пк |на сервере |
+| Что потребовалось для запуска |установить библиотеки, скачивать vs code, создавать окружение | открыть ссылку в браузере и нажать выполнить все|
